@@ -4,7 +4,7 @@
 - 📫 How to reach me:(44)991572539 Braziliam number
 - 📫 Email: matheusbossobr@hotmail.com 
 - 😄 Pronouns: Supreme Lord
-- ⚡ Eng / pt-br
+- ⚡ Eng / PT-BR
 
 
  <div>
