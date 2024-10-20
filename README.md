@@ -1,7 +1,7 @@
 ## Hi! I`m Matheus (Baruch)
 - 🌱 I’m currently learning Javascript,Python,C++,Java,Swift
 - 💬 Ask me about anything! let`s be friends! 
-- 📫 How to reach me:(44)991572539 Braziliam number
+- 📫 How to reach me:(44)991572539 Brazilian number
 - 📫 Email: matheusbossobr@hotmail.com 
 - 😄 Pronouns: Supreme Lord
 - ⚡ Eng / PT-BR
