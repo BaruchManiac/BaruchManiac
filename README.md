@@ -1,5 +1,5 @@
 ## Hi! I`m Matheus (Baruch)
-- 🌱 I’m currently learning Javascript,Python,C++,Java,Swift
+- 🌱 I’m currently learning C++,Java,Swift, Kotlin.
 - 💬 Ask me about anything! let`s be friends! 
 - 📫 How to reach me:(44)991572539 Brazilian number
 - 📫 Email: matheusbossobr@hotmail.com 
