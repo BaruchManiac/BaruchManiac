@@ -1,5 +1,5 @@
 ## Hi! I`m Matheus (Baruch)
-- 🌱 I’m currently learning C++,Java,Swift, Kotlin.
+- 🌱 I’m currently learning C++, Swift, Kotlin.
 - 💬 Ask me about anything! let`s be friends! 
 - 📫 How to reach me:(44)991572539 Brazilian number
 - 📫 Email: matheusbossobr@hotmail.com 
@@ -14,7 +14,6 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Baruch-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Baruch-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >
    <img align="center" alt="Baruch-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
    <img align="center" alt="Baruch-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
           
