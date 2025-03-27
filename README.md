@@ -9,8 +9,8 @@
 
  <div>
   <a href="https://github.com/BaruchManiac">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=BaruchManiac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaruchManiac&layout=compact&langs_count=16&theme=algolia"/>
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=BaruchManiac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaruchManiac&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Baruch-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
